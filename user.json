@@ -1,0 +1,22 @@
+[
+  {
+    "login": "admin1",
+    "password": "12345",
+    "site": "ya.ru"
+  },
+  {
+    "login": "ldma1",
+    "password": "543",
+    "site": "google.ru"
+  },
+  {
+    "login": "kjh",
+    "password": "123",
+    "site": "git.com"
+  },
+  {
+    "login": "lkj",
+    "password": "k3zQzZz!OY",
+    "site": "git.com"
+  }
+]
